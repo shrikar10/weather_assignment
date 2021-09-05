@@ -1,3 +1,3 @@
 #WEEK 2
-# weather_assignment
+# Weather Assignment
 https://shrikar10.github.io/weather_assignment/
